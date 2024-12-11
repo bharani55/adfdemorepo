@@ -1,0 +1,9 @@
+{
+	"name": "practiceadf-demo",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f3ecfc74-3c4a-4786-a325-778b1da9d759",
+		"tenantId": "29a05bfa-5822-44a5-9f0b-c1b59230f827"
+	}
+}
